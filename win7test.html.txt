@@ -1,0 +1,6 @@
+<!DOCTYPE>
+<head>
+</head>
+<body>
+<p>Hello this is simple web page created on win7 and pushed to git via its win7 client.</p>
+</body>
